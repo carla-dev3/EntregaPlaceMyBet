@@ -17,7 +17,7 @@ namespace repaso1
 
             //Añadir a la lista
             lista.Add(2);
-            lista2.Add(5); 
+            lista2.Add(6); 
 
             // Para comparar usamos el CompareTo 
 
