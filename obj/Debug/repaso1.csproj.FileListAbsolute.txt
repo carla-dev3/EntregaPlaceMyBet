@@ -1,0 +1,7 @@
+C:\Users\carla\OneDrive\Escritorio\acceso a datos\repaso1\bin\Debug\repaso1.exe.config
+C:\Users\carla\OneDrive\Escritorio\acceso a datos\repaso1\bin\Debug\repaso1.exe
+C:\Users\carla\OneDrive\Escritorio\acceso a datos\repaso1\bin\Debug\repaso1.pdb
+C:\Users\carla\OneDrive\Escritorio\acceso a datos\repaso1\obj\Debug\repaso1.csprojAssemblyReference.cache
+C:\Users\carla\OneDrive\Escritorio\acceso a datos\repaso1\obj\Debug\repaso1.csproj.CoreCompileInputs.cache
+C:\Users\carla\OneDrive\Escritorio\acceso a datos\repaso1\obj\Debug\repaso1.exe
+C:\Users\carla\OneDrive\Escritorio\acceso a datos\repaso1\obj\Debug\repaso1.pdb
